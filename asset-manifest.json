@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-estudio-juridico/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-estudio-juridico/static/js/main.61322cad.chunk.js",
+    "main.js.map": "/react-estudio-juridico/static/js/main.61322cad.chunk.js.map",
+    "runtime-main.js": "/react-estudio-juridico/static/js/runtime-main.717e8540.js",
+    "runtime-main.js.map": "/react-estudio-juridico/static/js/runtime-main.717e8540.js.map",
+    "static/js/2.9cc15eea.chunk.js": "/react-estudio-juridico/static/js/2.9cc15eea.chunk.js",
+    "static/js/2.9cc15eea.chunk.js.map": "/react-estudio-juridico/static/js/2.9cc15eea.chunk.js.map",
+    "index.html": "/react-estudio-juridico/index.html",
+    "precache-manifest.008798ac5928c5b550ab77cfce635f1f.js": "/react-estudio-juridico/precache-manifest.008798ac5928c5b550ab77cfce635f1f.js",
+    "service-worker.js": "/react-estudio-juridico/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-estudio-juridico/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9cc15eea.chunk.js.LICENSE.txt": "/react-estudio-juridico/static/js/2.9cc15eea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-estudio-juridico/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.717e8540.js",
+    "static/js/2.9cc15eea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.61322cad.chunk.js"
+  ]
+}

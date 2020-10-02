@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-estudio-juridico/precache-manifest.008798ac5928c5b550ab77cfce635f1f.js"
+  "/react-estudio-juridico/precache-manifest.70e403e16b0b2ee1bea9c61ccac397a4.js"
 );
 
 self.addEventListener('message', (event) => {
